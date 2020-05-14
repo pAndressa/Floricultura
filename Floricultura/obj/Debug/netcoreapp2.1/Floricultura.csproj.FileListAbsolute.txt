@@ -1,0 +1,32 @@
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.deps.json
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.json
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.dev.json
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.pdb
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.csprojAssemblyReference.cache
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.csproj.CoreCompileInputs.cache
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfoInputs.cache
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfo.cs
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\Andressa Silva\source\repos\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.pdb
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.csprojAssemblyReference.cache
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.csproj.CoreCompileInputs.cache
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfoInputs.cache
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfo.cs
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.pdb
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.deps.json
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.json
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.dev.json
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\ASPEREIRA\Documents\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.pdb
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.deps.json
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.json
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.runtimeconfig.dev.json
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\bin\Debug\netcoreapp2.1\Floricultura.pdb
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.AssemblyInfo.cs
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.dll
+C:\Users\woman\source\repos\Floricultura\Floricultura\Floricultura\obj\Debug\netcoreapp2.1\Floricultura.pdb
